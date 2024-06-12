@@ -8,7 +8,7 @@ A) Falling Bodies
 1. Open Reality Composer Pro.
 2. Find and open the FallingBalls scene.
 3. Notice that when you play the app, the right ball drops but the left ball does not.
-4. Try to add the right components to the right ball in order to make it also drop.
+4. Try to add the right components to the left ball in order to make it also drop.
 
 B) A Different Color
 1. Open Reality Composer Pro.
